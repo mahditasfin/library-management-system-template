@@ -3,6 +3,14 @@
 ## Library Management System
 In this assignment, you will build a simple library management system using Java. The system will allow users to view all books in the library's inventory, search for a book by title, author, or ISBN, check out a book to a patron, return a book that was previously checked out, and add a new book to the library's inventory.
 
+## Usage
+* View all books
+* Search for a book
+* Check out a book
+* Return a book
+* Add a new book
+* Quit
+
 ## Requirements
 To complete this assignment, you will need to create the following classes:
 
